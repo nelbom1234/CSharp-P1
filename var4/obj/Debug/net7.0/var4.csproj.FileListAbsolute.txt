@@ -1,0 +1,15 @@
+C:\Users\NIN\Desktop\code\C#P1\var4\bin\Debug\net7.0\var4.exe
+C:\Users\NIN\Desktop\code\C#P1\var4\bin\Debug\net7.0\var4.deps.json
+C:\Users\NIN\Desktop\code\C#P1\var4\bin\Debug\net7.0\var4.runtimeconfig.json
+C:\Users\NIN\Desktop\code\C#P1\var4\bin\Debug\net7.0\var4.dll
+C:\Users\NIN\Desktop\code\C#P1\var4\bin\Debug\net7.0\var4.pdb
+C:\Users\NIN\Desktop\code\C#P1\var4\obj\Debug\net7.0\var4.csproj.AssemblyReference.cache
+C:\Users\NIN\Desktop\code\C#P1\var4\obj\Debug\net7.0\var4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIN\Desktop\code\C#P1\var4\obj\Debug\net7.0\var4.AssemblyInfoInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\var4\obj\Debug\net7.0\var4.AssemblyInfo.cs
+C:\Users\NIN\Desktop\code\C#P1\var4\obj\Debug\net7.0\var4.csproj.CoreCompileInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\var4\obj\Debug\net7.0\var4.dll
+C:\Users\NIN\Desktop\code\C#P1\var4\obj\Debug\net7.0\refint\var4.dll
+C:\Users\NIN\Desktop\code\C#P1\var4\obj\Debug\net7.0\var4.pdb
+C:\Users\NIN\Desktop\code\C#P1\var4\obj\Debug\net7.0\var4.genruntimeconfig.cache
+C:\Users\NIN\Desktop\code\C#P1\var4\obj\Debug\net7.0\ref\var4.dll
