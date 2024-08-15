@@ -1,0 +1,15 @@
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\bin\Debug\net7.0\udtryk1.exe
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\bin\Debug\net7.0\udtryk1.deps.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\bin\Debug\net7.0\udtryk1.runtimeconfig.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\bin\Debug\net7.0\udtryk1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\bin\Debug\net7.0\udtryk1.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\obj\Debug\net7.0\udtryk1.csproj.AssemblyReference.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\obj\Debug\net7.0\udtryk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\obj\Debug\net7.0\udtryk1.AssemblyInfoInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\obj\Debug\net7.0\udtryk1.AssemblyInfo.cs
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\obj\Debug\net7.0\udtryk1.csproj.CoreCompileInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\obj\Debug\net7.0\udtryk1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\obj\Debug\net7.0\refint\udtryk1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\obj\Debug\net7.0\udtryk1.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\obj\Debug\net7.0\udtryk1.genruntimeconfig.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\udtryk1\obj\Debug\net7.0\ref\udtryk1.dll

@@ -1,0 +1,15 @@
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\bin\Debug\net7.0\loop6.exe
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\bin\Debug\net7.0\loop6.deps.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\bin\Debug\net7.0\loop6.runtimeconfig.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\bin\Debug\net7.0\loop6.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\bin\Debug\net7.0\loop6.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\obj\Debug\net7.0\loop6.csproj.AssemblyReference.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\obj\Debug\net7.0\loop6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\obj\Debug\net7.0\loop6.AssemblyInfoInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\obj\Debug\net7.0\loop6.AssemblyInfo.cs
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\obj\Debug\net7.0\loop6.csproj.CoreCompileInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\obj\Debug\net7.0\loop6.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\obj\Debug\net7.0\refint\loop6.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\obj\Debug\net7.0\loop6.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\obj\Debug\net7.0\loop6.genruntimeconfig.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop6\obj\Debug\net7.0\ref\loop6.dll

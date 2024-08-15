@@ -1,0 +1,15 @@
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\bin\Debug\net7.0\loop2.exe
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\bin\Debug\net7.0\loop2.deps.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\bin\Debug\net7.0\loop2.runtimeconfig.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\bin\Debug\net7.0\loop2.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\bin\Debug\net7.0\loop2.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\obj\Debug\net7.0\loop2.csproj.AssemblyReference.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\obj\Debug\net7.0\loop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\obj\Debug\net7.0\loop2.AssemblyInfoInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\obj\Debug\net7.0\loop2.AssemblyInfo.cs
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\obj\Debug\net7.0\loop2.csproj.CoreCompileInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\obj\Debug\net7.0\loop2.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\obj\Debug\net7.0\refint\loop2.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\obj\Debug\net7.0\loop2.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\obj\Debug\net7.0\loop2.genruntimeconfig.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\loop2\obj\Debug\net7.0\ref\loop2.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NIN\\Desktop\\code\\C#P1\\var5\\var5.csproj": {}
+    "C:\\Users\\NIN\\Desktop\\code\\C#P1\\CSharp-P1\\var5\\var5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NIN\\Desktop\\code\\C#P1\\var5\\var5.csproj": {
+    "C:\\Users\\NIN\\Desktop\\code\\C#P1\\CSharp-P1\\var5\\var5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NIN\\Desktop\\code\\C#P1\\var5\\var5.csproj",
+        "projectUniqueName": "C:\\Users\\NIN\\Desktop\\code\\C#P1\\CSharp-P1\\var5\\var5.csproj",
         "projectName": "var5",
-        "projectPath": "C:\\Users\\NIN\\Desktop\\code\\C#P1\\var5\\var5.csproj",
+        "projectPath": "C:\\Users\\NIN\\Desktop\\code\\C#P1\\CSharp-P1\\var5\\var5.csproj",
         "packagesPath": "C:\\Users\\NIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NIN\\Desktop\\code\\C#P1\\var5\\obj\\",
+        "outputPath": "C:\\Users\\NIN\\Desktop\\code\\C#P1\\CSharp-P1\\var5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

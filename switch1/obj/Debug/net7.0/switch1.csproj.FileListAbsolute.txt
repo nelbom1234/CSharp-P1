@@ -1,0 +1,15 @@
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\obj\Debug\net7.0\switch1.csproj.AssemblyReference.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\obj\Debug\net7.0\switch1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\obj\Debug\net7.0\switch1.AssemblyInfoInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\obj\Debug\net7.0\switch1.AssemblyInfo.cs
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\obj\Debug\net7.0\switch1.csproj.CoreCompileInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\bin\Debug\net7.0\switch1.exe
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\bin\Debug\net7.0\switch1.deps.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\bin\Debug\net7.0\switch1.runtimeconfig.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\bin\Debug\net7.0\switch1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\bin\Debug\net7.0\switch1.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\obj\Debug\net7.0\switch1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\obj\Debug\net7.0\refint\switch1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\obj\Debug\net7.0\switch1.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\obj\Debug\net7.0\switch1.genruntimeconfig.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\switch1\obj\Debug\net7.0\ref\switch1.dll

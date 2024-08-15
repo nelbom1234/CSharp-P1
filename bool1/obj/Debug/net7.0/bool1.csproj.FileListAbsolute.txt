@@ -1,0 +1,15 @@
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\obj\Debug\net7.0\bool1.csproj.AssemblyReference.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\obj\Debug\net7.0\bool1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\obj\Debug\net7.0\bool1.AssemblyInfoInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\obj\Debug\net7.0\bool1.AssemblyInfo.cs
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\obj\Debug\net7.0\bool1.csproj.CoreCompileInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\bin\Debug\net7.0\bool1.exe
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\bin\Debug\net7.0\bool1.deps.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\bin\Debug\net7.0\bool1.runtimeconfig.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\bin\Debug\net7.0\bool1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\bin\Debug\net7.0\bool1.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\obj\Debug\net7.0\bool1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\obj\Debug\net7.0\refint\bool1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\obj\Debug\net7.0\bool1.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\obj\Debug\net7.0\bool1.genruntimeconfig.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool1\obj\Debug\net7.0\ref\bool1.dll

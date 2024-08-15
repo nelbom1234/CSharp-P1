@@ -1,0 +1,15 @@
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\bin\Debug\net7.0\bool5.exe
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\bin\Debug\net7.0\bool5.deps.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\bin\Debug\net7.0\bool5.runtimeconfig.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\bin\Debug\net7.0\bool5.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\bin\Debug\net7.0\bool5.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\obj\Debug\net7.0\bool5.csproj.AssemblyReference.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\obj\Debug\net7.0\bool5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\obj\Debug\net7.0\bool5.AssemblyInfoInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\obj\Debug\net7.0\bool5.AssemblyInfo.cs
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\obj\Debug\net7.0\bool5.csproj.CoreCompileInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\obj\Debug\net7.0\bool5.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\obj\Debug\net7.0\refint\bool5.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\obj\Debug\net7.0\bool5.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\obj\Debug\net7.0\bool5.genruntimeconfig.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\bool5\obj\Debug\net7.0\ref\bool5.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "aritmetik1/1.0.0": {
+        "runtime": {
+          "aritmetik1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aritmetik1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
