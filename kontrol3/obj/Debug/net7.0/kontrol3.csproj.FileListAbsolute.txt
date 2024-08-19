@@ -1,0 +1,15 @@
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\bin\Debug\net7.0\kontrol3.exe
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\bin\Debug\net7.0\kontrol3.deps.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\bin\Debug\net7.0\kontrol3.runtimeconfig.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\bin\Debug\net7.0\kontrol3.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\bin\Debug\net7.0\kontrol3.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\obj\Debug\net7.0\kontrol3.csproj.AssemblyReference.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\obj\Debug\net7.0\kontrol3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\obj\Debug\net7.0\kontrol3.AssemblyInfoInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\obj\Debug\net7.0\kontrol3.AssemblyInfo.cs
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\obj\Debug\net7.0\kontrol3.csproj.CoreCompileInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\obj\Debug\net7.0\kontrol3.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\obj\Debug\net7.0\refint\kontrol3.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\obj\Debug\net7.0\kontrol3.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\obj\Debug\net7.0\kontrol3.genruntimeconfig.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol3\obj\Debug\net7.0\ref\kontrol3.dll

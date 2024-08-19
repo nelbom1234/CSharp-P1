@@ -1,0 +1,15 @@
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\obj\Debug\net7.0\instans1.csproj.AssemblyReference.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\obj\Debug\net7.0\instans1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\obj\Debug\net7.0\instans1.AssemblyInfoInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\obj\Debug\net7.0\instans1.AssemblyInfo.cs
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\obj\Debug\net7.0\instans1.csproj.CoreCompileInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\bin\Debug\net7.0\instans1.exe
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\bin\Debug\net7.0\instans1.deps.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\bin\Debug\net7.0\instans1.runtimeconfig.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\bin\Debug\net7.0\instans1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\bin\Debug\net7.0\instans1.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\obj\Debug\net7.0\instans1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\obj\Debug\net7.0\refint\instans1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\obj\Debug\net7.0\instans1.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\obj\Debug\net7.0\instans1.genruntimeconfig.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\instans1\obj\Debug\net7.0\ref\instans1.dll

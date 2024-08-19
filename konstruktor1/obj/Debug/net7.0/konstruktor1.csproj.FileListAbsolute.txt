@@ -1,0 +1,15 @@
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\obj\Debug\net7.0\konstruktor1.csproj.AssemblyReference.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\obj\Debug\net7.0\konstruktor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\obj\Debug\net7.0\konstruktor1.AssemblyInfoInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\obj\Debug\net7.0\konstruktor1.AssemblyInfo.cs
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\obj\Debug\net7.0\konstruktor1.csproj.CoreCompileInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\bin\Debug\net7.0\konstruktor1.exe
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\bin\Debug\net7.0\konstruktor1.deps.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\bin\Debug\net7.0\konstruktor1.runtimeconfig.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\bin\Debug\net7.0\konstruktor1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\bin\Debug\net7.0\konstruktor1.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\obj\Debug\net7.0\konstruktor1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\obj\Debug\net7.0\refint\konstruktor1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\obj\Debug\net7.0\konstruktor1.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\obj\Debug\net7.0\konstruktor1.genruntimeconfig.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\konstruktor1\obj\Debug\net7.0\ref\konstruktor1.dll

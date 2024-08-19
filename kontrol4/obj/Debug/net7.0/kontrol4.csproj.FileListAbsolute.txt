@@ -1,0 +1,15 @@
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\obj\Debug\net7.0\kontrol4.csproj.AssemblyReference.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\obj\Debug\net7.0\kontrol4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\obj\Debug\net7.0\kontrol4.AssemblyInfoInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\obj\Debug\net7.0\kontrol4.AssemblyInfo.cs
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\obj\Debug\net7.0\kontrol4.csproj.CoreCompileInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\bin\Debug\net7.0\kontrol4.exe
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\bin\Debug\net7.0\kontrol4.deps.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\bin\Debug\net7.0\kontrol4.runtimeconfig.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\bin\Debug\net7.0\kontrol4.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\bin\Debug\net7.0\kontrol4.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\obj\Debug\net7.0\kontrol4.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\obj\Debug\net7.0\refint\kontrol4.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\obj\Debug\net7.0\kontrol4.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\obj\Debug\net7.0\kontrol4.genruntimeconfig.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\kontrol4\obj\Debug\net7.0\ref\kontrol4.dll

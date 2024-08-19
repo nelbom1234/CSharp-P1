@@ -1,0 +1,15 @@
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\obj\Debug\net7.0\gennemløb1.csproj.AssemblyReference.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\obj\Debug\net7.0\gennemløb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\obj\Debug\net7.0\gennemløb1.AssemblyInfoInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\obj\Debug\net7.0\gennemløb1.AssemblyInfo.cs
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\obj\Debug\net7.0\gennemløb1.csproj.CoreCompileInputs.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\bin\Debug\net7.0\gennemløb1.exe
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\bin\Debug\net7.0\gennemløb1.deps.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\bin\Debug\net7.0\gennemløb1.runtimeconfig.json
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\bin\Debug\net7.0\gennemløb1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\bin\Debug\net7.0\gennemløb1.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\obj\Debug\net7.0\gennemløb1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\obj\Debug\net7.0\refint\gennemløb1.dll
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\obj\Debug\net7.0\gennemløb1.pdb
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\obj\Debug\net7.0\gennemløb1.genruntimeconfig.cache
+C:\Users\NIN\Desktop\code\C#P1\CSharp-P1\gennemløb1\obj\Debug\net7.0\ref\gennemløb1.dll
