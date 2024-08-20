@@ -1,6 +1,6 @@
 namespace kontrol {
     public class Kontrol {
-        public void kontrol() {
+        public static void kontrol() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -61,7 +61,7 @@ namespace kontrol {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -74,7 +74,7 @@ namespace kontrol {
         }
 
 
-        public void Et() {
+        public static void Et() {
             for (int i = 1; i < 10; i++) {
                 if ((i*3) == 21) {
                     break;
@@ -84,7 +84,7 @@ namespace kontrol {
             Console.WriteLine("Loopen er nu stoppet");
         }
 
-        public void To() {
+        public static void To() {
             int i = 0;
 
             while(i < 10) {
@@ -97,7 +97,7 @@ namespace kontrol {
             Console.WriteLine("Loopen er nu stoppet");
         }
 
-        public void Tre() {
+        public static void Tre() {
             //jeg kan ærligt talt ikke finde ud af hvordan jeg nogensinde skal få ||
             //til at gøre noget som helst brugbart i den her opgave
 
@@ -115,7 +115,7 @@ namespace kontrol {
             Console.WriteLine($"Der er et fradrag på {fradrag} øre");
         }
 
-        public void Fire() {
+        public static void Fire() {
             double skat = 0;
             int indtægt = 500000;
 
@@ -132,7 +132,7 @@ namespace kontrol {
             Console.WriteLine($"Der skal betales {skat:C} i skat");
         }
 
-        public void Fem() {
+        public static void Fem() {
             string? result;
             uint penge;
 

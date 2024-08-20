@@ -1,6 +1,6 @@
 namespace str {
     public class Str {
-        public void str() {
+        public static void str() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -55,7 +55,7 @@ namespace str {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -67,7 +67,7 @@ namespace str {
         }
 
 
-        public void Et() {
+        public static void Et() {
             int tal = 5;
             string text = "Hej med dig";
             double decimaltal = 5.9;
@@ -77,7 +77,7 @@ namespace str {
             Console.WriteLine(decimaltal);
         }
 
-        public void To() {
+        public static void To() {
             int tal = 5;
             string text = "Hej med dig";
             double decimaltal = 5.9;
@@ -89,13 +89,13 @@ namespace str {
             Console.WriteLine(decimaltal);
         }
 
-        public void Tre() {
+        public static void Tre() {
             string text = "I dag har vi den 24. December";
 
             Console.WriteLine(text);
         }
 
-        public void Fire() {
+        public static void Fire() {
             double decimaltal = 200.50;
             string text = "Jeg har";
             string text2 = "kr. i banken";

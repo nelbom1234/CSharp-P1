@@ -2,7 +2,7 @@ using classes;
 
 namespace konstruktor {
     public class Konstruktor {
-        public void konstruktor() {
+        public static void konstruktor() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -39,7 +39,7 @@ namespace konstruktor {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -48,7 +48,7 @@ namespace konstruktor {
         }
 
 
-        public void Et() {
+        public static void Et() {
             var bog1 = new Bog(250, "Tarzan");
             var bog2 = new Bog(300);
 

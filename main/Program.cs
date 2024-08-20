@@ -20,52 +20,52 @@ void main() {
         }
         switch (menuValg) {
             case 1:
-                new vari.Vari().vari();
+                vari.Vari.vari();
                 break;
             case 2:
-                new str.Str().str();
+                str.Str.str();
                 break;
             case 3:
-                new aritmetik.Aritmetik().aritmetik();
+                aritmetik.Aritmetik.aritmetik();
                 break;
             case 4:
-                new udtryk.Udtryk().udtryk();
+                udtryk.Udtryk.udtryk();
                 break;
             case 5:
-                new bools.Bools().bools();
+                bools.Bools.bools();
                 break;
             case 6:
-                new ifs.Ifs().ifs();
+                ifs.Ifs.ifs();
                 break;
             case 7:
-                new switchs.Switchs().switchs();
+                switchs.Switchs.switchs();
                 break;
             case 8:
-                new loop.Loop().loop();
+                loop.Loop.loop();
                 break;
             case 9:
-                new kontrol.Kontrol().kontrol();
+                kontrol.Kontrol.kontrol();
                 break;
             case 10:
-                new metoder.Metoder().metoder();
+                metoder.Metoder.metoder();
                 break;
             case 11:
-                new retur.Retur().retur();
+                retur.Retur.retur();
                 break;
             case 12:
-                new instans.Instans().instans();
+                instans.Instans.instans();
                 break;
             case 13:
-                new nedarvning.Nedarvning().nedarvning();
+                nedarvning.Nedarvning.nedarvning();
                 break;
             case 14:
-                new konstruktor.Konstruktor().konstruktor();
+                konstruktor.Konstruktor.konstruktor();
                 break;
             case 15:
-                new arrays.Arrays().arrays();
+                arrays.Arrays.arrays();
                 break;
             case 16:
-                new gennemløb.Gennemløb().gennemløb();
+                gennemløb.Gennemløb.gennemløb();
                 break;
             case 17:
                 shouldExit = true;

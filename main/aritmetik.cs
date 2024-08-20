@@ -1,6 +1,6 @@
 namespace aritmetik {
     public class Aritmetik {
-        public void aritmetik() {
+        public static void aritmetik() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -37,7 +37,7 @@ namespace aritmetik {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -46,7 +46,7 @@ namespace aritmetik {
         }
 
 
-        public void Et() {
+        public static void Et() {
             int et = 2 + 1 * 2;
             int to = (2+1) * 2;
             double tre = (double)5/2;

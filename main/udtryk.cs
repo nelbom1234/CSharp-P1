@@ -1,6 +1,6 @@
 namespace udtryk {
     public class Udtryk {
-        public void udtryk() {
+        public static void udtryk() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -43,7 +43,7 @@ namespace udtryk {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -53,7 +53,7 @@ namespace udtryk {
         }
 
 
-        public void Et() {
+        public static void Et() {
             int tal1 = 6;
             int tal2 = 7;
             int tal3 = 16;
@@ -65,7 +65,7 @@ namespace udtryk {
             Console.WriteLine(result);
         }
 
-        public void To() {
+        public static void To() {
             double tal1 = 5.3;
             double tal2 = 7.2;
             double tal3 = 9.7;

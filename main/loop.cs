@@ -1,6 +1,6 @@
 namespace loop {
     public class Loop {
-        public void loop() {
+        public static void loop() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -85,7 +85,7 @@ namespace loop {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -101,7 +101,7 @@ namespace loop {
             
         }
 
-        public void Et() {
+        public static void Et() {
             for (int i = 1; i < 11; i++) {
                 Console.WriteLine(i);
             }
@@ -113,7 +113,7 @@ namespace loop {
             }
         }
 
-        public void To() {
+        public static void To() {
             for (int i = 100; i > 0; i--) {
                 Console.WriteLine(i);
             }
@@ -125,13 +125,13 @@ namespace loop {
             }
         }
 
-        public void Tre() {
+        public static void Tre() {
             for (int i = 5; i < 100; i+=5) {
             Console.WriteLine(i);
             }
         }
 
-        public void Fire() {
+        public static void Fire() {
             //opgave beskrivelsen er lidt kringlet
             //mit beste bud er at den skal tælle ned fra 20 til 0 og udskrive, men det er bare en minder udgave af opgave 2
 
@@ -146,13 +146,13 @@ namespace loop {
             }
         }
 
-        public void Fem() {
+        public static void Fem() {
             for (int i = 1; i < 10; i++) {
                 Console.WriteLine($"{i} * 7 = {i*7,3}");
             }
         }
 
-        public void Seks() {
+        public static void Seks() {
             string? result;
             int tal;
 
@@ -176,7 +176,7 @@ namespace loop {
             }
         }
 
-        public void Syv() {
+        public static void Syv() {
             int x1 = 20;
             int y1 = 4;
             int x2 = 30;
@@ -198,7 +198,7 @@ namespace loop {
             }
         }
 
-        public void Otte() {
+        public static void Otte() {
             int x1 = 20;
             int y1 = 4;
             int x2 = 30;
@@ -227,7 +227,7 @@ namespace loop {
             Console.Clear();
         }
 
-        public void Ni() {
+        public static void Ni() {
             string? result;
             int x1;
             int y1;

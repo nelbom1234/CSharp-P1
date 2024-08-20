@@ -1,6 +1,6 @@
 namespace arrays {
     public class Arrays {
-        public void arrays() {
+        public static void arrays() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -37,7 +37,7 @@ namespace arrays {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -46,7 +46,7 @@ namespace arrays {
         }
 
 
-        public void Et() {
+        public static void Et() {
             int[] arr = { -2, -1, 0, 10 };
 
             Console.WriteLine(arr[3]);

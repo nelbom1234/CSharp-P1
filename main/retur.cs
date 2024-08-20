@@ -2,7 +2,7 @@ using classes;
 
 namespace retur {
     public class Retur {
-        public void retur() {
+        public static void retur() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -57,7 +57,7 @@ namespace retur {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -69,25 +69,25 @@ namespace retur {
         }
 
 
-        public void Et() {
+        public static void Et() {
             var bil = new Bil();
             bil.MotorTændt();
             bil.MotorSlukket();
         }
 
-        public void To() {
+        public static void To() {
             var bil = new Bil();
             double gas = 2.5;
 
             bil.FillGas(gas);
         }
 
-        public void Tre() {
+        public static void Tre() {
             var bil = new Bil();
             bil.FillGas(2.5, true);
         }
 
-        public void Fire() {
+        public static void Fire() {
             var bil = new Bil();
             double gas = bil.RemainingGas();
 

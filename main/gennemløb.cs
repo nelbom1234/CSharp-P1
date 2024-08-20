@@ -1,6 +1,6 @@
 namespace gennemløb {
     public class Gennemløb {
-        public void gennemløb() {
+        public static void gennemløb() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -37,7 +37,7 @@ namespace gennemløb {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -46,7 +46,7 @@ namespace gennemløb {
         }
 
 
-        public void Et() {
+        public static void Et() {
             int[] arr = { 5, 2, 7, 9, 12, 4 };
 
             int sum = 0;

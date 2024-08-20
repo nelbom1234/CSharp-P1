@@ -2,7 +2,7 @@ using classes;
 
 namespace nedarvning {
     public class Nedarvning {
-        public void nedarvning() {
+        public static void nedarvning() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -39,7 +39,7 @@ namespace nedarvning {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -48,7 +48,7 @@ namespace nedarvning {
         }
 
 
-        public void Et() {
+        public static void Et() {
             var stol = new Chair();
             stol.pris = 500;
             stol.ben = 4;

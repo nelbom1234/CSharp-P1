@@ -1,6 +1,6 @@
 namespace bools {
     public class Bools {
-        public void bools() {
+        public static void bools() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -37,7 +37,7 @@ namespace bools {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -46,7 +46,7 @@ namespace bools {
         }
 
 
-        public void Et() {
+        public static void Et() {
             int var1 = 15;
             int var2 = 12;
 

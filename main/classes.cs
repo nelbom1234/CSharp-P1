@@ -6,9 +6,11 @@ namespace classes {
         }
         public Bog(int pris) {
             _pris = pris;
+            _titel = "";
         }
         public Bog() {
-
+            _pris = 0;
+            _titel = "";
         }
 
         public int _pris { get; set; }

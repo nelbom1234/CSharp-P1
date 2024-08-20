@@ -2,7 +2,7 @@ using classes;
 
 namespace metoder {
     public class Metoder {
-        public void metoder() {
+        public static void metoder() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -45,7 +45,7 @@ namespace metoder {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -55,12 +55,12 @@ namespace metoder {
         }
 
 
-        public void Et() {
+        public static void Et() {
             var SherlockHolmes = new Bog();
             SherlockHolmes.PrintInfo();
         }
 
-        public void To() {
+        public static void To() {
             var SherlockHolmes = new Bog();
             if (SherlockHolmes.HarRåd(150, 200)) {
                 Console.WriteLine("Jeg har råd");

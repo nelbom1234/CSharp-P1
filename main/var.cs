@@ -1,6 +1,6 @@
 namespace vari {
     public class Vari {
-        public void vari() {
+        public static void vari() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -67,7 +67,7 @@ namespace vari {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -81,19 +81,19 @@ namespace vari {
         }
 
 
-        public void Et() {
+        public static void Et() {
             int tal1 = 5;
             int tal2 = 3;
             Console.WriteLine($"{tal1} \n{tal2}");
         }
 
-        public void To() {
+        public static void To() {
             int tal1 = 5;
             int tal2 = 3;
             Console.WriteLine($"Tal1 er {tal1} \nTal2 er {tal2}");
         }
 
-        public void Tre() {
+        public static void Tre() {
             string navn = "Søren";
             int alder = 16;
             double penge = 1234.34;
@@ -101,7 +101,7 @@ namespace vari {
             Console.WriteLine($"Jeg hedder {navn}, er {alder} år gammel og har tjent {penge} kr. på at lappe cykler");
         }
 
-        public void Fire() {
+        public static void Fire() {
             double kage = 23.56;
             double øl = 34.67;
             double pølse = 65.34;
@@ -112,7 +112,7 @@ namespace vari {
             Console.WriteLine($"I alt \t\t {kage+øl+pølse:N2}");
         }
 
-        public void Fem() {
+        public static void Fem() {
             string? result;
             string navn;
             uint alder;
@@ -147,7 +147,7 @@ namespace vari {
             Console.WriteLine($"Jeg hedder {navn} og er {alder} år gammel.");
         }
 
-        public void Seks() {
+        public static void Seks() {
             string? result;
             double radius;
 

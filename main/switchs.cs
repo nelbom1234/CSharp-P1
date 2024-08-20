@@ -1,6 +1,6 @@
 namespace switchs {
     public class Switchs {
-        public void switchs() {
+        public static void switchs() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -43,7 +43,7 @@ namespace switchs {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -53,7 +53,7 @@ namespace switchs {
         }
 
 
-        public void Et() {
+        public static void Et() {
             string? result;
             int tal;
 
@@ -104,7 +104,7 @@ namespace switchs {
                     Console.Clear();
         }
 
-        public void To() {
+        public static void To() {
            string? result;
             int tal;
             string drink = "";

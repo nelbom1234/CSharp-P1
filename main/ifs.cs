@@ -1,6 +1,6 @@
 namespace ifs {
     public class Ifs {
-        public void ifs() {
+        public static void ifs() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -73,7 +73,7 @@ namespace ifs {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -88,7 +88,7 @@ namespace ifs {
         }
 
 
-        public void Et() {
+        public static void Et() {
             int tal1 = 42;
             int tal2 = 64;
 
@@ -99,7 +99,7 @@ namespace ifs {
             else Console.WriteLine("Summen er 100");
         }
 
-        public void To() {
+        public static void To() {
             string? result;
             uint alder;
 
@@ -122,7 +122,7 @@ namespace ifs {
             else Console.WriteLine("Du er ikke for gammel");
         }
 
-        public void Tre() {
+        public static void Tre() {
             string? result;
             uint alder;
 
@@ -148,7 +148,7 @@ namespace ifs {
 
         }
 
-        public void Fire() {
+        public static void Fire() {
             string? result;
             string navn;
             string brugernavn;
@@ -195,7 +195,7 @@ namespace ifs {
             else Console.WriteLine("brugernavn eller password er forkert");
         }
 
-        public void Fem() {
+        public static void Fem() {
             string? result;
             string navn;
             string brugernavn;
@@ -248,7 +248,7 @@ namespace ifs {
             }
         }
 
-        public void Seks() {
+        public static void Seks() {
             string? result;
             uint distance;
 
@@ -278,7 +278,7 @@ namespace ifs {
             }
         }
 
-        public void Syv() {
+        public static void Syv() {
             string? result;
             uint alder;
 

@@ -2,7 +2,7 @@ using classes;
 
 namespace instans {
     public class Instans {
-        public void instans() {
+        public static void instans() {
             string? result;
             uint menuValg;
             bool shouldExit = false;
@@ -39,7 +39,7 @@ namespace instans {
             }
         }
 
-        public void UnderMenu() {
+        public static void UnderMenu() {
             Console.Clear();
             Console.WriteLine("Vælg et underemne");
             Console.WriteLine("\t1");
@@ -48,7 +48,7 @@ namespace instans {
         }
 
 
-        public void Et()  {
+        public static void Et()  {
             var Moby = new Bog();
             Moby._titel = "Moby Dick";
             Moby._pris = 240;
